@@ -1,0 +1,2 @@
+- fix vite HMR -- bug from updating dep
+  see https://github.com/wailsapp/wails/issues/3064
